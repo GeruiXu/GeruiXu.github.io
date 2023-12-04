@@ -8,7 +8,7 @@ Integrated writing 1
 >
 > A third explanation is that business owners thought factories would help  reduce their overall business expenses by reducing their transportation  costs. In the cottage system, business owners had to pay the costs of  transporting raw materials to and transporting finished goods back from  each worker. Because worker cottages were often located far apart, these costs could be very high.
 
-<audio controls>   <source src="https://geruixu.github.io/knowledgebase/English evolve/writing/in1/真题74 shift to factories system.WAV" type="audio/mpeg">   Your browser does not support the audio tag. </audio>
+<audio controls>   <source src="https://geruixu.github.io/knowledgebase/English evolve/writing/真题74 shift to factories system.WAV" type="audio/mpeg">   Your browser does not support the audio tag. </audio>
 
 <button onclick="toggleText()">Display/Hide the text</button>
 
