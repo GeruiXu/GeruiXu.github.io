@@ -24,3 +24,6 @@ function toggleText() {
     }
 }
 </script>
+
+
+In the reading material, the author cites three theories about the shift to factory system in Britain. Nevertheless, the lecturer argues that none of the factors is the primary reason, and attack each of the claims made in the reading.
