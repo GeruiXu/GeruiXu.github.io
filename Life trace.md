@@ -20,7 +20,7 @@ title: Life trace
   <img src="https://GeruiXu.github.io/images/vetnan_sands.png" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">
   <figcaption>2018</figcaption>
 </figure>
-[**Journey of New life**](https://geruixu.github.io/knowledgebase/life trace/info_blogs)<br>
+[**Journey of New life**](https://geruixu.github.io/knowledgebase/lifetrace/info_blogs)<br>
 
 
 
