@@ -17,7 +17,7 @@ My research is focusing on **Human-machine Interaction Technologies** and **Simu
 
 Currently, I work as a research assistant in the Institute of Transportation and Safety, advised by **Dr. Zhenhua Yu**.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *shePartick@foxmail.com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at : *shePartick@foxmail.com*
 
 <br>
 
@@ -38,7 +38,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Human factors issues** related to connected and automated vehicle technologies
 - **Takeover design** in autonomous vehicles
 
-My current research focuses on 
+My current research focuses on Takeover optimization in autonomous vehicles.
 
 <br>
 

@@ -12,7 +12,6 @@ title: Blogs
 
 ### **2022**
 
-- [21岁，何妨吟啸且徐行](https://caihanlin.com/blogs/21yrs)<br>
 - [Modevol: Words learning](https://geruixu.github.io/blogs/English words)<br>
 
 <br>

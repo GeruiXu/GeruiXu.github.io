@@ -14,6 +14,8 @@ Latest Update: 20th Oct 2023&nbsp;
 
 ---
 
-## Undergraduate Thesis
+## Undergraduate Programs
+
+- 2018~2019 Combat Robots
 
 <br>

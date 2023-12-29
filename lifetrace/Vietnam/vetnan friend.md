@@ -19,8 +19,9 @@ As the meal progressed, the naan continued to be the silent hero, complementing 
 
 <figure style="text-align:right;">
   <img src="https://GeruiXu.github.io/lifetrace/Vietnam/indian2.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
-  <figcaption>Indian Restaurant</figcaption>
+  <figcaption>Naan bread</figcaption>
 </figure>
+
 
 My newfound acquaintance across the table shared stories of his homeland, each tale adding depth to the flavors we were savoring. Our conversation, much like the naan, was warm and enveloping, providing both sustenance and comfort.
 
