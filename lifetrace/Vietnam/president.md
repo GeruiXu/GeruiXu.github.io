@@ -1,11 +1,9 @@
-
+# Presidential office
 
 <figure style="text-align:right;">
   <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office1.png" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
   <figcaption>Presidential office outside</figcaption>
 </figure>
-
-
 Beneath the sweltering sun of a Vietnamese summer, my footsteps echoed through the corridors of time as I ventured into the heart of Ho Chi Minh City, where the Presidential Palace stood as a testament to a nation’s narrative.
 
 The façade of the palace, awash with the purest of whites and adorned with the distinctive blue that graced its window frames, captivated my gaze. The fountains danced and flags billowed in a tranquil display of solemnity and grace, compelling a slower pace, an immersion into the celebratory silence. This very site, once the Presidential Palace of South Vietnam, bore witness to the pivotal moments of the Vietnam War, encapsulating the iconic scene of tanks breaching its gates in 1975, heralding the war's end and the nation’s rebirth.
