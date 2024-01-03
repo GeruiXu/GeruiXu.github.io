@@ -15,9 +15,13 @@ title: Life trace
   <figcaption>the Bund</figcaption>
 </figure>
 
+[**Familiar silhouettes and the glow of the unknown converge, painting a canvas where past and future embrace.**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
+
 2023, WAIC
 
 <figure style="text-align:right;">  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">  <figcaption>WAIC Conference</figcaption></figure>
+
+[**AI for science & Scholar discussion**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
 
 <br>
 
