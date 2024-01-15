@@ -19,9 +19,10 @@ title: Life trace
 2023, WAIC
 
 <figure style="text-align:right;">
-    <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands" width="600" height="400">
+    <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands" 
     <figcaption>WAIC Conference</figcaption>
 </figure>
+
 
 [**AI for science & Scholar discussion**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
 
@@ -48,15 +49,14 @@ title: Life trace
 
 <div style="text-align:center;">
     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-        <img src="https://GeruiXu.github.io/lifetrace/lifetrace/Vietnam/Nha Trang1.jpg" style="width:100%; height:auto;">
-        <figcaption>Caption for First Image</figcaption>
+        <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Nha Trang1.jpg" style="width:100%; height:auto;">
+        <figcaption>Nha Trang Beach</figcaption>
     </figure>
     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-        <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Nha Trang1.jpg" style="width:100%; height:auto;">
-        <figcaption>Caption for Second Image</figcaption>
+        <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Nha Trang2.jpg" style="width:100%; height:auto;">
+        <figcaption>Nha Trang Island</figcaption>
     </figure>
 </div>
-
 
 [**After a day soaked in the vibrant history and lush landscapes of Nha Trang, Vietnam**](https://geruixu.github.io/lifetrace/Vietnam/vetnan friend)<br><br>
 
