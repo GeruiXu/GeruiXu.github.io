@@ -14,12 +14,14 @@ title: Life trace
   <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">
   <figcaption>the Bund</figcaption>
 </figure>
-
 [**Familiar silhouettes and the glow of the unknown converge, painting a canvas where past and future embrace.**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
 
 2023, WAIC
 
-<figure style="text-align:right;">  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">  <figcaption>WAIC Conference</figcaption></figure>
+<figure style="text-align:right;">
+    <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands" width="600" height="400">
+    <figcaption>WAIC Conference</figcaption>
+</figure>
 
 [**AI for science & Scholar discussion**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
 
@@ -36,7 +38,7 @@ title: Life trace
 ### **Ho Chi Minh City**
 
 <figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office0.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
+  <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office2.JPG" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands" 
   <figcaption>Presidential office</figcaption>
 </figure>
 
@@ -44,10 +46,17 @@ title: Life trace
 
 ### **Nha Trang**
 
-<figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Nha Trang.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
-  <figcaption>Beach in Nha Trang</figcaption>
-</figure>
+<div style="text-align:center;">
+    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+        <img src="https://GeruiXu.github.io/lifetrace/lifetrace/Vietnam/Nha Trang1.jpg" style="width:100%; height:auto;">
+        <figcaption>Caption for First Image</figcaption>
+    </figure>
+    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+        <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Nha Trang1.jpg" style="width:100%; height:auto;">
+        <figcaption>Caption for Second Image</figcaption>
+    </figure>
+</div>
+
 
 [**After a day soaked in the vibrant history and lush landscapes of Nha Trang, Vietnam**](https://geruixu.github.io/lifetrace/Vietnam/vetnan friend)<br><br>
 
