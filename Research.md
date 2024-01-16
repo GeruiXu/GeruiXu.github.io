@@ -22,7 +22,7 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ## Undergraduate Programs
 
-2018~2019 Combat Robots
+2018~2019 Intelligent Robots——Combat Robot
 
 <figure style="text-align:right;">
   <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot1.png" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
