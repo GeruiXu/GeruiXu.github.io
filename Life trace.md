@@ -19,10 +19,9 @@ title: Life trace
 2023, WAIC
 
 <figure style="text-align:right;">
-    <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands" 
-    <figcaption>WAIC Conference</figcaption>
+  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">
+  <figcaption>WAIC</figcaption>
 </figure>
-
 
 [**AI for science & Scholar discussion**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
 
@@ -42,8 +41,6 @@ title: Life trace
   <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office2.JPG" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">
   <figcaption>Presidential office</figcaption>
 </figure>
-
-<img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office2.JPG" alt="Presidential office">
 
 [**Beneath the sweltering sun of a Vietnamese summer, my footsteps echoed through the corridors of time as I ventured into the heart of Ho Chi Minh City**](https://geruixu.github.io/lifetrace/Vietnam/president)<br>
 
