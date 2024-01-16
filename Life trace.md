@@ -10,17 +10,22 @@ title: Life trace
 
 2023, Shanghai
 
-<figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">
-  <figcaption>the Bund</figcaption>
+<figure style="text-align:center;">
+  <div style="display: inline-block; text-align: center;">
+  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai1.jpg" style="max-width: 100%; max-height: 500px;" alt="vetnan_sands">
+    <figcaption>The Bund</figcaption>
+  </div>
 </figure>
+
 [**Familiar silhouettes and the glow of the unknown converge, painting a canvas where past and future embrace.**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
 
 2023, WAIC
 
-<figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">
-  <figcaption>WAIC</figcaption>
+<figure style="text-align:center;">
+  <div style="display: inline-block; text-align: center;">
+    <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="max-width: 100%; max-height: 400px;" alt="vetnan_sands">
+    <figcaption>WORLD ARTIFICIAL INTELLIGENCE CONFERENCE</figcaption>
+  </div>
 </figure>
 
 [**AI for science & Scholar discussion**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
