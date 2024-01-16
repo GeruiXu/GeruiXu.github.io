@@ -58,6 +58,4 @@ title: Life trace
         <figcaption>Nha Trang Island</figcaption>
     </figure>
 </div>
-
 [**After a day soaked in the vibrant history and lush landscapes of Nha Trang, Vietnam**](https://geruixu.github.io/lifetrace/Vietnam/vetnan friend)<br><br>
-
