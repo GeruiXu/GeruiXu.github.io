@@ -39,7 +39,7 @@ title: Life trace
 ### **Ho Chi Minh City**
 
 <figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office2.JPG" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands" 
+  <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office0.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands" 
   <figcaption>Presidential office</figcaption>
 </figure>
 
