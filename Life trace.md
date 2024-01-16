@@ -43,8 +43,6 @@ title: Life trace
   <figcaption>Presidential office</figcaption>
 </figure>
 
-
-
 [**Beneath the sweltering sun of a Vietnamese summer, my footsteps echoed through the corridors of time as I ventured into the heart of Ho Chi Minh City**](https://geruixu.github.io/lifetrace/Vietnam/president)<br>
 
 ### **Nha Trang**
