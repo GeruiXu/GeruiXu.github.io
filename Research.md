@@ -16,8 +16,22 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ---
 
+## Graduate Programs
+
+
+
 ## Undergraduate Programs
 
-- 2018~2019 Combat Robots
+2018~2019 Combat Robots
+
+<figure style="text-align:right;">
+  <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot1.png" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
+  <figcaption>Pioneer I</figcaption>
+</figure>
 
 <br>
+
+<figure style="text-align:right;">
+  <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot2.png" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
+  <figcaption>Pioneer II</figcaption>
+</figure>
