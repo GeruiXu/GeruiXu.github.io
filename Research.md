@@ -20,18 +20,20 @@ During my professional experience with enterprise-level automated vehicle projec
 
 
 
+------
+
 ## Undergraduate Programs
 
 2018~2019 Intelligent Robots——Combat Robot
 
-<figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot1.png" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
-  <figcaption>Pioneer I</figcaption>
-</figure>
+<div style="text-align:center;">
+    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+        <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot1.png" style="width:100%; height:auto;">
+        <figcaption>Pioneer-I</figcaption>
+    </figure>
+    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+        <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot2.png" style="width:100%; height:auto;">
+        <figcaption>Pioneer-I</figcaption>
+    </figure>
+</div>
 
-<br>
-
-<figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot2.png" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Presidential office0">
-  <figcaption>Pioneer II</figcaption>
-</figure>

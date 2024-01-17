@@ -8,12 +8,6 @@ The realm of concepts is a generalization of the real world, and the linguistic 
 
 Particularly in today's age, our comprehension of the world is derived from the internet, from the language pervading the internet, illuminating the substantial power of language embedded within. This instigates individuals to ponder, whether it is reality that sculpts language, or language that sculpts reality.
 
-**Contents:**
-
-[TOC]
-
-
-
 # Science
 
 
@@ -27,7 +21,3 @@ Particularly in today's age, our comprehension of the world is derived from the 
 ## Reading 
 
 - [Ancient Athens](https://geruixu.github.io/knowledgebase/Ancient Athens)<br>
-
-[备考记录](https://geruixu.github.io/knowledgebase/真题48)<br>
-
-1

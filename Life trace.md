@@ -8,18 +8,7 @@ title: Life trace
 
 ## Silver Age  (2021- updates)
 
-2023, Shanghai
-
-<figure style="text-align:center;">
-  <div style="display: inline-block; text-align: center;">
-  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai1.jpg" style="max-width: 100%; max-height: 500px;" alt="vetnan_sands">
-    <figcaption>The Bund</figcaption>
-  </div>
-</figure>
-
-[**Familiar silhouettes and the glow of the unknown converge, painting a canvas where past and future embrace.**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
-
-2023, WAIC
+2023, WAIC<br>
 
 <figure style="text-align:center;">
   <div style="display: inline-block; text-align: center;">
@@ -30,7 +19,21 @@ title: Life trace
 
 [**AI for science & Scholar discussion**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
 
-<br>
+
+
+2023, Shanghai<br>
+
+<figure style="text-align:center;">
+  <div style="display: inline-block; text-align: center;">
+  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai1.jpg" style="max-width: 100%; max-height: 400px;" alt="vetnan_sands">
+    <figcaption>The Bund</figcaption>
+  </div>
+</figure>
+
+
+[**Familiar silhouettes and the glow of the unknown converge, painting a canvas where past and future embrace.**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
+
+------
 
 ## Bronze Age (2017 ~ 2020)
 
@@ -43,9 +46,10 @@ title: Life trace
 ### **Ho Chi Minh City**
 
 <figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office2.JPG" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="vetnan_sands">
+  <img src="https://GeruiXu.github.io/lifetrace/Vietnam/Presidential office2.JPG"  style="max-width: 100%; max-height: 400px;" alt="vetnan_sands">
   <figcaption>Presidential office</figcaption>
 </figure>
+
 
 [**Beneath the sweltering sun of a Vietnamese summer, my footsteps echoed through the corridors of time as I ventured into the heart of Ho Chi Minh City**](https://geruixu.github.io/lifetrace/Vietnam/president)<br>
 

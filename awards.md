@@ -18,6 +18,8 @@ Latest Update: 15th Oct 2023 &nbsp;
 
 - May 2019：3rd Prize of University’s Scholarship for Undergraduate Student
 
+------
+
 ## Competitions
 
 - August 2019：Bronze Award in "Internet+" Innovation Group
