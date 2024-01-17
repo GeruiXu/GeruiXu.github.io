@@ -4,18 +4,36 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp;
+Latest Update: 15th Oct 2023 &nbsp;
 
-## Scholarships
+## Scholarships & Honors
 
-- August 2023：
+- September 2023：First-class Academic Scholarship for Graduate（Top 1%）
+
+  One of the highest undergraduate awards at HFUT
+
+- September 2022：Third-class Academic Scholarship for Graduate
+
+- September 2021：Third-class Academic Scholarship for Graduate
+
+- May 2019：3rd Prize of University’s Scholarship for Undergraduate Student
 
 ## Competitions
 
-- Aug 2023：
-- 
+- August 2019：Bronze Award in "Internet+" Innovation Group
 
-## Honors
+  **Project: "Ergonomically Designed Multifunctional Intelligent Medical Bed"**
 
-- Aug 2023：
-- 
+  **Team Leader**
+
+  
+
+- August 2019：Bronze Award in "Internet+" Innovation Group
+
+  **Project: "Ergonomically Designed Multifunctional Intelligent Medical Bed"**
+
+  
+
+- August 2019：Finalist in 2nd China College Robotics Creativity Competition
+
+  **Program designer**
