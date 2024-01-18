@@ -8,7 +8,7 @@ Latest Update: 20th Oct 2023&nbsp;
 
 During my professional experience with enterprise-level automated vehicle projects, I specialized in multidimensional data analysis. This involved not only extracting and processing large datasets from real vehicles but also integrating and analyzing eye-tracking data of drivers. Such comprehensive data handling equipped me with a unique perspective on human-machine interaction, specifically in understanding and optimizing takeover behavior in autonomous driving.
 
-# Journal Paper
+## Journal Paper
 
 - Coming soon... 🚀
 
@@ -16,21 +16,21 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ---
 
-# Graduate Projects
+## Graduate Projects
 
 
 
 ------
 
-# Undergraduate Projects
+## Undergraduate Projects
 
-## **May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"**<br>
+### May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"<br>
 
-## **Jun 2018 – May 2019  "Intelligent Robots——Combat Robot "**<br>
+### Jun 2018 – May 2019  "Intelligent Robots——Combat Robot "<br>
 
-> ### Overview
+> ### Overview: Pioneer
 >
-> As part of a university team, I participated in the development of an autonomous robot named "Pioneer" for the Intelligent Robotics Competition finals. As the lead programmer, I spearheaded the software system design and implementation, especially the core functionalities of autonomous exploration and opponent search-and-attack.  
+> As part of a university team (3 candidates), I participated in the development of an autonomous robot named "Pioneer" for the Intelligent Robotics Competition finals. As the lead programmer, I spearheaded the software system design and implementation, especially the core functionalities of autonomous exploration and opponent search-and-attack.  
 >
 > <div style="text-align:center;">
 >     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
