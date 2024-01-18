@@ -24,11 +24,13 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ## Undergraduate Projects
 
-### May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"
+**May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"**
 
+<br>
 
+**Jun 2018 – May 2019  "Intelligent Robots——Combat Robot "**
 
-### Jun 2018 – May 2019  "Intelligent Robots——Combat Robot "
+<br>
 
 <div style="text-align:center;">
     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
