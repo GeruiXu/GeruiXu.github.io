@@ -16,15 +16,19 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ---
 
-## Graduate Programs
+## Graduate Projects
 
 
 
 ------
 
-## Undergraduate Programs
+## Undergraduate Projects
 
-2018~2019 Intelligent Robots——Combat Robot
+### May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"
+
+
+
+### Jun 2018 – May 2019  "Intelligent Robots——Combat Robot "
 
 <div style="text-align:center;">
     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
@@ -36,4 +40,3 @@ During my professional experience with enterprise-level automated vehicle projec
         <figcaption>Pioneer-I</figcaption>
     </figure>
 </div>
-
