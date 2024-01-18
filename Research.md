@@ -28,31 +28,39 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ### Jun 2018 – May 2019  "Intelligent Robots——Combat Robot "<br>
 
-> ### Overview: Pioneer
+> ### Overview
 >
-> As part of a university team (3 candidates), I participated in the development of an autonomous robot named "Pioneer" for the Intelligent Robotics Competition finals. As the lead programmer, I spearheaded the software system design and implementation, especially the core functionalities of autonomous exploration and opponent search-and-attack.  
+> As a member of the intelligent robot project team (only 3 candidates), I was fully involved in the development of a sophisticated combat robot named "Pioneer." As the chief software architect of this project, I spearheaded the entire programming and functional implementation of the robot, with a particular emphasis on the development of its core logic: autonomous patrolling, enemy detection and attack strategies, and evasion and disguise mechanisms. Ultimately, we fabricated two prototypes of "Pioneer" and participated in the finals of the Intelligent Robotics Competition.
 >
 > <div style="text-align:center;">
->     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
->         <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot1.png" style="width:100%; height:auto;">
->         <figcaption>Pioneer-I</figcaption>
->     </figure>
->     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
->         <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot2.png" style="width:100%; height:auto;">
->         <figcaption>Pioneer-I</figcaption>
->     </figure>
+>  <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+>      <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot1.png" style="width:100%; height:auto;">
+>      <figcaption>Camouflage in dark conditions</figcaption>
+>  </figure>
+>  <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+>      <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot2.png" style="width:100%; height:auto;">
+>      <figcaption>Safety zone patrol</figcaption>
+>  </figure>
 > </div>
 > ### My Contributions
 > 1. Architected the software system and hardware-software integration for Pioneer based on key competition requirements like the arena dimensions, weight limits, and scoring mechanics. This involved close collaboration with the mechanical and electrical engineers in the team.
->
 > 2. Created autonomous control algorithms enabling Pioneer to intelligently navigate around the arena without falling off, using data from infrared and analog sensors. The algorithms had to be robust to sensor noise and uncertainties.  
->
 > 3. Developed opponent search-and-attack logic by fusing inputs from multiple infrared rangefinders to reliably detect and lock on to enemy robots. This included aiming routines to align our robot's shovel perfectly for maximum pushing power.  
->
 > 4. Optimized the software for real-time performance and responsiveness during battles. This was challenging due to the complex state transitions required between exploration, attack, and self-preservation modes.
->
 > 5. Led the strategy for integrating and testing the complete robotic system. Coordinated with team members to troubleshoot issues like PCB failures or mechanical alignment problems.  
 >
+> <div style="text-align:center;">
+>  <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+>      <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot3.png" style="width:100%; height:auto;">
+>      <figcaption>Camouflage in dark conditions</figcaption>
+>  </figure>
+>  <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+>      <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Robot4.png" style="width:100%; height:auto;">
+>      <figcaption>Safety zone patrol</figcaption>
+>  </figure>
+> </div>
+>
 > ### Outcome
-> Pioneer performed admirably in competition trials, reliably exploring over 90% of the arena and defeating opponent robots through coordinated attacks. Our team finished as quarter-finalists amidst tough competition from veteran teams, proving the effectiveness of Pioneer's software systems that I created. This project enhanced my skills in robotics algorithms, software architectures, hardware-software integration, and leading engineering teams.
+>
+> In the competition, "Pioneer" excelled, reliably exploring over 90% of the arena and defeating two opposing robots with coordinated attack logic using just one unit. Our emerging team stood out amidst fierce competition from seasoned teams nationwide, reaffirming the efficacy of the software system I developed for "Pioneer." This project enhanced my skills in robot algorithms, software architecture, hardware-software integration, and leading engineering teams.
 
