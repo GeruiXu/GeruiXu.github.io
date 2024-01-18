@@ -5,9 +5,10 @@ layout: page
 # About Me
 
 <figure style="text-align:right;">
-  <img src="https://GeruiXu.github.io/gerui1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Gerui Xu">
+  <img src="https://GeruiXu.github.io/images/gerui1.jpg" style="float:right; margin-left: 20px; margin-bottom: 10px;" alt="Gerui Xu">
   <figcaption>Guangde, Nov 2023</figcaption>
 </figure>
+
 
 Here is **Gerui Xu (徐格瑞)**.
 
