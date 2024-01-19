@@ -33,30 +33,32 @@ title: Life trace
 
 <figure style="text-align:center;">
   <div style="display: inline-block; text-align: center;">
-  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/S3.jpg"  style="max-width: 100%; max-height: 500px;" alt="vetnan_sands">
-  <figcaption>Roundtable discussion</figcaption>
+  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/S3.jpg" style="max-width: 100%; max-height: 400px;" alt="vetnan_sands">
+    <figcaption>Roundtable discussion</figcaption>
+  </div>
 </figure>
-
-<div style="text-align:center;">
-    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-        <img src="https://GeruiXu.github.io/lifetrace/Shanghai/A1.jpg" style="width:100%; height:auto;">
-    </figure>
-    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-        <img src="https://GeruiXu.github.io/lifetrace/Shanghai/A2.jpg" style="width:100%; height:auto;">
-    </figure>
-    <figcaption>Deng Zhidong, Tsinghua University Institute for Artificial Intelligence</figcaption>
-</div>
 
 ### 2023, Shanghai<br>
 
 <figure style="text-align:center;">
   <div style="display: inline-block; text-align: center;">
-  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai1.jpg" style="max-width: 100%; max-height: 400px;" alt="vetnan_sands">
+  <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai1.jpg" style="max-width: 100%; max-height: 600px;" alt="vetnan_sands">
     <figcaption>The Bund</figcaption>
   </div>
 </figure>
 
+<div style="text-align:center;">
+    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+        <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai2.jpg" style="width:100%; height:auto;">
+        <figcaption>Nanjing Road Pedestrian Street</figcaption>
+    </figure>
+    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+        <img src="https://GeruiXu.github.io/lifetrace/Shanghai/shanghai3.jpg" style="width:100%; height:auto;">
+        <figcaption>Nanjing Road Pedestrian Street</figcaption>
+    </figure>
+</div>
 
+<br>
 
 ------
 
