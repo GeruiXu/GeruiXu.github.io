@@ -91,7 +91,7 @@ My current research focuses on Takeover optimization in autonomous vehicles. If 
 >   <figure style="text-align:center;">
 >   <div style="display: inline-block; text-align: center;">
 >   <img src="https://GeruiXu.github.io/images/skill6.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
->    <figcaption>multimodal video</figcaption>
+>    <figcaption>Multimodal video</figcaption>
 >   </div>
 >   </figure>
 >
