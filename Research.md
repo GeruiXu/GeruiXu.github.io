@@ -14,11 +14,13 @@ During my professional experience with enterprise-level automated vehicle projec
 
   <br>
 
+---
+
+# Graduate Research & Projects
+
 ## Master Research Intro
 
-### Experiment I  
 
----
 
 ## Graduate Projects
 
@@ -53,7 +55,7 @@ Corporation Foundation (2022JSKF1064) ————Supervised by ***Prof. Kang Ji
 
 ------
 
-## Undergraduate Projects
+# Undergraduate Outstanding Projects
 
 ### May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"<br>
 
