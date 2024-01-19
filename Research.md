@@ -51,25 +51,27 @@ During my professional experience with enterprise-level automated vehicle projec
 >
 > 1. **Behavioral Characteristics and Phase Division**: The study demonstrates that the behavioral characteristics of drivers during the takeover process in autonomous vehicles can be used to divide different behavioral stages, revealing the dynamic changes in attention allocation, visual transition, and operational responses during takeover operations.
 >
+>    <figure style="text-align:center;">
+>    <div style="display: inline-block; text-align: center;">
+>    <img src="https://GeruiXu.github.io/mypaper/Projects/paper1.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
+>    <figcaption>Procedure of the experimental design</figcaption>
+>    </div>
+>    </figure>
+>
+> 2. **Impact of Audio Cue Types**: Different types of audio cues, such as actual sounds, alarm tones, and electronic voices, significantly impact the timing and performance of the driver's takeover operations. Some types of cues can improve response speed and operational efficiency, while others may lead to reduced takeover efficiency.
+>
 >    <div style="text-align:center;">
 >    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
->    <img src="https://GeruiXu.github.io/mypaper/Projects/paper1.png" style="width:100%; height:auto;">
+>    <img src="https://GeruiXu.github.io/mypaper/Projects/paper2.png" style="width:100%; height:auto;">
 >    <figcaption>Time distribution of key features</figcaption>
 >    </figure>
 >    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
->    <img src="https://GeruiXu.github.io/mypaper/Projects/paper2.png" style="width:100%; height:auto;">
+>    <img src="https://GeruiXu.github.io/mypaper/Projects/paper3.png" style="width:100%; height:auto;">
 >    <figcaption>The operations in the whole takeover process</figcaption>
 >    </figure>
 >    </div>
 >
-> 2. **Impact of Audio Cue Types**: Different types of audio cues, such as actual sounds, alarm tones, and electronic voices, significantly impact the timing and performance of the driver's takeover operations. Some types of cues can improve response speed and operational efficiency, while others may lead to reduced takeover efficiency.
->
->    <figure style="text-align:center;">
->    <div style="display: inline-block; text-align: center;">
->    <img src="https://GeruiXu.github.io/mypaper/Projects/paper3.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
->    <figcaption>Procedure of the experimental design</figcaption>
->    </div>
->    </figure>
+>    
 >
 > 3. **Time Series Analysis of Takeover Operations**: Through time series analysis of operational behaviors during the takeover process, the study reveals behavior patterns and operational characteristics at different stages. This helps in understanding how to design more effective audio cues in various stages to enhance the driver's takeover performance.
 
@@ -97,19 +99,34 @@ During my professional experience with enterprise-level automated vehicle projec
 > The Apollo Moon (Polar Fox) autonomous vehicle, equipped with a safety operator in the front passenger seat, is responsible for ensuring the safety of the journey along the test route.
 >
 > <div style="text-align:center;">
-> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test1.png" style="width:100%; height:auto;">
-> <figcaption>Wuhan tests</figcaption>
-> </figure>
-> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-> <img src="https://GeruiXu.github.io/mypaper/Projects/CT1.png" style="width:100%; height:auto;">
-> <figcaption>Hefei tests</figcaption>
-> </figure>
+>     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
+>         <img src="https://GeruiXu.github.io/mypaper/Projects/L4test1.png" style="width:100%; height:auto;">
+>         <figcaption>Apollo Moon</figcaption>
+>     </figure>
+>     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
+>         <img src="https://GeruiXu.github.io/mypaper/Projects/L4test3.png" style="width:100%; height:auto;">
+>         <figcaption>Wuhan tests</figcaption>
+>     </figure>
+>     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
+>         <img src="https://GeruiXu.github.io/mypaper/Projects/CT1.png" style="width:100%; height:auto;">
+>         <figcaption>Hefei tests</figcaption>
+>     </figure>
 > </div>
 >
 > ### Analysis of  emergency situations
 >
 > #### 1. Factors Contributing to Traffic Congestion
+>
+> <div style="text-align:center;">
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test4.png" style="width:100%; height:auto;">
+> <figcaption>Time distribution of key features</figcaption>
+> </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test4.1.png" style="width:100%; height:auto;">
+> <figcaption>The operations in the whole takeover process</figcaption>
+> </figure>
+> </div>
 >
 > ##### Inability to Change Lanes
 >
@@ -122,6 +139,18 @@ During my professional experience with enterprise-level automated vehicle projec
 > In summary, this incident highlights the strategic limitations of the autonomous driving system in specific, unforeseen circumstances.<br>Factors Contributing to Traffic Congestion
 >
 > #### 2. Hazardous Incident: Running a Red Light
+>
+> <div style="text-align:center;">
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test5.png" style="width:100%; height:auto;">
+> <figcaption>Time distribution of key features</figcaption>
+> </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test5.2.png" style="width:100%; height:auto;">
+> <figcaption>The operations in the whole takeover process</figcaption>
+> </figure>
+> </div>
+>
 > ##### Failure to Synchronize with Traffic Signals
 > Initially, from a global monitoring perspective, it was evident that the autonomous vehicle failed to receive information from the traffic lights upon approaching the intersection. This deviates from standard operations, as vehicles in previous monitoring footage were able to receive and display traffic light signals in advance.
 >
