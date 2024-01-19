@@ -36,8 +36,6 @@ Supervised by **Dr. Zhenhua Yu**
 
 > 
 
-
-
 ### Aug 2022 – Present 
 
 **"Spatial Object Recognition and Tracking Localization Based on Augmented Reality"** <br>(2022JSKF1064)<br>Supervised by **Prof. Kang Jiang**
