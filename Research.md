@@ -22,31 +22,27 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ### Jun 2022 – Present<br>
 
-**"Dynamic Transfer Patterns of Takeover Behavior in Autonomous Driving and Methods for Enhancing Takeover Performance"**<br>National Natural Science Foundation of China (Grant Nos. 52172344)
+**"Dynamic Transfer Patterns of Takeover Behavior in Autonomous Driving and Methods for Enhancing Takeover Performance"**
 
-Supervised by **Prof. Kang Jiang**
+**National Natural Science Foundation of China** (Grant Nos. 52172344)————Supervised by ***Prof. Kang Jiang***
 
 
 
-### Sep 2021 – Dec 2022 
+Sep 2021 – Dec 2022 **"Mechanism of Visual Focus Transfer and Method of Human-Computer Interaction of Wake-up Attention As Take-over in Highly Automated Driving"** 
 
-**"Mechanism of Visual Focus Transfer and Method of Human-Computer Interaction of Wake-up Attention As Take-over in Highly Automated Driving"** <br>National Natural Science Foundation Youth Fund (Grant Nos. 51905142)
-
-Supervised by **Dr. Zhenhua Yu**
+**National Natural Science Foundation Youth Fund** (Grant Nos. 51905142) ————Supervised by ***Dr. Zhenhua Yu***
 
 > 
 
-### Aug 2022 – Present 
+Aug 2022 – Present  **"Spatial Object Recognition and Tracking Localization Based on Augmented Reality"** 
 
-**"Spatial Object Recognition and Tracking Localization Based on Augmented Reality"** <br>(2022JSKF1064)<br>Supervised by **Prof. Kang Jiang**
+Corporation Foundation (2022JSKF1064) ————Supervised by ***Prof. Kang Jiang***
 
-> - **Sensor Technology Integration and Data Fusion:** Integrated multi-sensors with IMU inertial navigation systems
+> ### My Contributions
 >
-> and developed a fusion algorithm, significantly improving system positioning accuracy in dynamic environments
+> - **Sensor Technology Integration and Data Fusion:** Integrated multi-sensors with IMU inertial navigation systems and developed a fusion algorithm, significantly improving system positioning accuracy in dynamic environments<br>
 >
-> - **Data Analysis and Visualization:** Responsible for processing fused data, extracting key features for statistical
->
-> analysis, and developing a data visualization interface.
+> - **Data Analysis and Visualization:** Responsible for processing fused data, extracting key features for statistical analysis, and developing a data visualization interface.<br>
 
 ------
 
