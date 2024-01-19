@@ -20,7 +20,27 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ## Graduate Projects
 
-Stage 1.
+### Jun 2022 – Present<br>
+
+Project: **Dynamic Transfer Patterns of Takeover Behavior in Autonomous Driving and Methods for Enhancing Takeover Performance** <br>National Natural Science Foundation of China (Grant Nos. 52172344)<br>Supervised by **Prof. Kang Jiang**
+
+### Sep 2021 – Dec 2022<br>
+
+Project: **Mechanism of Visual Focus Transfer and Method of Human-Computer Interaction of Wake-up Attention As Take-over in Highly Automated Driving** <br>National Natural Science Foundation Youth Fund (Grant Nos. 51905142) <br>Supervised by **Dr. Zhenhua Yu**
+
+
+
+**Aug 2022 – Present**<br>
+
+Project: **Spatial Object Recognition and Tracking Localization Based on Augmented Reality** (2022JSKF1064)<br>Supervised by **Prof. Kang Jiang**
+
+- **Sensor Technology Integration and Data Fusion:** Integrated multi-sensors with IMU inertial navigation systems
+
+and developed a fusion algorithm, significantly improving system positioning accuracy in dynamic environments
+
+- **Data Analysis and Visualization:** Responsible for processing fused data, extracting key features for statistical
+
+analysis, and developing a data visualization interface.
 
 ------
 
@@ -29,7 +49,7 @@ Stage 1.
 ### May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"<br>
 
 > <font color='red'>Team Leader</font><br> Supervised by *Dr. Zhenhua Yu*<br>
-> Team members' majors: Information Management and Information Systems, Mechanical Design and Manufacturing Automation, Industrial Engineering, Software Engineering.
+> Team members' majors: Mechanical Design Manufacturing and Automation, Industrial Engineering, Software Engineering, Information Management and Information Systems, .
 >
 > ### Overview<br>
 >
