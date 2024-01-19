@@ -8,28 +8,27 @@ title: Life trace
 
 ## Silver Age  (2021- updates)
 
-2023, World Artificial Intelligence Conference<br>
+### 2023, World Artificial Intelligence Conference<br>
 
 <div style="text-align:center;">
     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
         <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC1.jpg" style="width:100%; height:auto;">
-        <figcaption></figcaption>
+        <figcaption>WAIC</figcaption>
     </figure>
     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
         <img src="https://GeruiXu.github.io/lifetrace/Shanghai/WAIC3.jpg" style="width:100%; height:auto;">
-        <figcaption></figcaption>
+        <figcaption>WAIC</figcaption>
     </figure>
 </div>
 
 <div style="text-align:center;">
     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
         <img src="https://GeruiXu.github.io/lifetrace/Shanghai/S1.jpg" style="width:100%; height:auto;">
-        <figcaption></figcaption>
     </figure>
     <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
         <img src="https://GeruiXu.github.io/lifetrace/Shanghai/S2.jpg" style="width:100%; height:auto;">
-        <figcaption></figcaption>
     </figure>
+    <figcaption>AI for Science conference</figcaption>
 </div>
 
 <figure style="text-align:center;">
@@ -48,7 +47,7 @@ title: Life trace
     <figcaption>Deng Zhidong, Tsinghua University Institute for Artificial Intelligence</figcaption>
 </div>
 
-2023, Shanghai<br>
+### 2023, Shanghai<br>
 
 <figure style="text-align:center;">
   <div style="display: inline-block; text-align: center;">
@@ -58,8 +57,6 @@ title: Life trace
 </figure>
 
 
-
-[**Familiar silhouettes and the glow of the unknown converge, painting a canvas where past and future embrace.**](https://geruixu.github.io/lifetrace/Vietnam/info_blogs)<br>
 
 ------
 
