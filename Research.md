@@ -28,9 +28,8 @@ Stage 1.
 
 ### May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"<br>
 
-> <font color='red'>Team Leader</font> 
+> <font color='red'>Team Leader</font><br> Supervised by *Dr. Zhenhua Yu*<br>
 > Team members' majors: Information Management and Information Systems, Mechanical Design and Manufacturing Automation, Industrial Engineering, Software Engineering.
-> ———Supervised by *Dr. Zhenhua Yu*
 >
 > ### Overview<br>
 >
