@@ -12,41 +12,81 @@ During my professional experience with enterprise-level automated vehicle projec
 
 - Zhenhua Yu, <font color='red'>Gerui Xu</font>, Kang Jiang, Zhongxiang Feng, Shan Xu. (2023). Constructing the behavioral sequence of the takeover process—TOR, behavior characteristics and phases division: A real vehicle experiment. Accident Analysis & Prevention, 186, 107040. [Access article](https://doi.org/10.1016/j.aap.2023.107040)
 
+  <figure style="text-align:center;">
+  <div style="display: inline-block; text-align: center;">
+  <img src="https://GeruiXu.github.io/mypaper/Projects/paper0.png" style="max-width: 100%; max-height: 600px;" alt="Behavioral sequence">
+  <figcaption>Behavioral sequence</figcaption>
+  </div>
+  </figure>
+  
   <br>
 
 ---
 
 ## Graduate Research 
 
-### Stage1  Real vehicle Experiment I
+###  Stage1  Real Vehicle Experiment I ——Constructing phase-based behavioral features for the takeover process
+
+> ### Purpose
+>
+> - The study focuses on human-machine co-driving scenarios in autonomous driving, especially situations where the driver needs to take over control in complex circumstances.
+> - Previous studies have mainly concentrated on static behavior indicators and the primary stages at the onset of takeover, but this study aims to construct a behavioral sequence based on the dynamic changes in behavior characteristics during the takeover process.
+> - The research investigates the influence of different types of auditory cues on the timing of takeover operations and driving performance at various stages.
+>
+> ### Experiment Design
+>
+> - The subjects were 20 professional drivers who performed non-driving related tasks (NDRT) under real road conditions and took over the vehicle to perform evasive maneuvers after receiving auditory cues.
+> - The experiment tested the drivers' takeover performance using different types of auditory cues, such as actual sounds, alarm tones, and electronic voice.
+> - The study analyzed the performance of operational behaviors, visual transfer, and attention throughout all stages of the takeover.
+>
+> <figure style="text-align:center;">
+> <div style="display: inline-block; text-align: center;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/E1.0.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
+> <figcaption>Procedure of the experimental design</figcaption>
+> </div>
+> </figure>
+> 
+>
+> **Results**:
+>
+> 1. **Behavioral Characteristics and Phase Division**: The study demonstrates that the behavioral characteristics of drivers during the takeover process in autonomous vehicles can be used to divide different behavioral stages, revealing the dynamic changes in attention allocation, visual transition, and operational responses during takeover operations.
+>
+>    <div style="text-align:center;">
+>    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+>    <img src="https://GeruiXu.github.io/mypaper/Projects/paper1.png" style="width:100%; height:auto;">
+>    <figcaption>Time distribution of key features</figcaption>
+>    </figure>
+>    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+>    <img src="https://GeruiXu.github.io/mypaper/Projects/paper2.png" style="width:100%; height:auto;">
+>    <figcaption>The operations in the whole takeover process</figcaption>
+>    </figure>
+>    </div>
+>
+> 2. **Impact of Audio Cue Types**: Different types of audio cues, such as actual sounds, alarm tones, and electronic voices, significantly impact the timing and performance of the driver's takeover operations. Some types of cues can improve response speed and operational efficiency, while others may lead to reduced takeover efficiency.
+>
+>    <figure style="text-align:center;">
+>    <div style="display: inline-block; text-align: center;">
+>    <img src="https://GeruiXu.github.io/mypaper/Projects/paper3.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
+>    <figcaption>Procedure of the experimental design</figcaption>
+>    </div>
+>    </figure>
+>
+> 3. **Time Series Analysis of Takeover Operations**: Through time series analysis of operational behaviors during the takeover process, the study reveals behavior patterns and operational characteristics at different stages. This helps in understanding how to design more effective audio cues in various stages to enhance the driver's takeover performance.
+
+###  Stage2 Real Vehicle Experiment II——Establishment of real-time driving incentives for autonomous driving
 
 > ### Overview
 >
 > The Apollo Moon (Polar Fox) autonomous vehicle, equipped with a safety operator in the front passenger seat, is responsible for ensuring the safety of the journey along the test route.
 >
-> <figure style="text-align:center;">
-> <div style="display: inline-block; text-align: center;">
-> <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/E1.0.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
->  <figcaption>Procedure of the experimental design</figcaption>
-> </div>
-> </figure>
-
-### Stage1  Real vehicle Experiment I
-
->  ### Overview
->
->  This research investigates the impact of audio types on the behavioral sequence of the takeover process in autonomous driving, using a real vehicle experiment to analyze the dynamic changes of behavioral characteristics during the takeover process.
->
->
->  <figure style="text-align:center;">
->  <div style="display: inline-block; text-align: center;">
->  <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/E1.0.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
->   <figcaption>Procedure of the experimental design</figcaption>
->  </div>
->  </figure>
->
+> 
+> Results:
+> 
 >  
->
+
+### Stage3 Real Vehicle Experiment III——Takeover Model Practical Validation
+
+> <font color='red'>[Coming soon ......]</font>
 
 ### Level-4 Automated Vehicles Urban Road Tests
 
@@ -93,12 +133,6 @@ During my professional experience with enterprise-level automated vehicle projec
 > Confronted with this newly updated and database-absent route, the vehicle had to rely on the information it could perceive for decision-making. In this unknown scenario, due to the inability to connect with road infrastructure, the vehicle misjudged the absence of traffic lights at the intersection and continued its course.
 >
 > Ultimately, the safety officer took emergency control and averted a major accident by forcibly braking the vehicle.
-
-### Stage2  Real vehicle Experiment II
-
-> ### Overview
->
-> This research investigates the impact of audio types on the behavioral sequence of the takeover process in autonomous driving, using a real vehicle experiment to analyze the dynamic changes of behavioral characteristics during the takeover process.
 
 ------
 
