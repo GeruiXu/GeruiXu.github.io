@@ -42,9 +42,43 @@ Stage 1.
 > <figcaption>Conceptual Diagram</figcaption>
 > </figure>
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-> <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate//Medical bed2.png" style="width:100%; height:auto;">
-> <figcaption>Conceptual Diagram</figcaption>
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate//Medical bed0.png" style="width:100%; height:auto;">
+> <figcaption>Mechanical schematic</figcaption>
 > </figure>
+> </div>
+>
+> ### My Contributions
+>
+> #### 1.Key Innovations
+>
+> The bed surface consists of a **matrix of actuators** evenly distributed to effectively disperse pressure on the human body. 
+>
+> * When a patient lies on the bed, **pressure sensors** embedded in the actuators can collect and feedback real-time user position data to the cloud. 
+> * The actuators are **designed based on human factor** principles to precisely conform to different body parts. 
+>
+> Underneath, **multiple stepper motors** drive cams and gears to translate continuous rotation into orderly actuator movements. **By rising and lowering at differential speeds**, the actuators induce continuous motions on specific body parts.
+>
+> #### 2.Enabling Mechanisms
+>
+> * **Motors** also power the primary and secondary shafts to enable the bed's functions. 
+>     * The primary shaft goes through a belt and bevel gear to change direction, allowing **axial rotation** of the bed. 
+>     * The secondary shaft connects to a **gear train** for orbital motion around the bed.
+> * **Inclination** of the bed is enabled by the tilt mechanism on the bed frame, working with a linear actuator and motor. 
+> * Additionally, an incomplete large spur gear combined with a rack actively lifts and lowers groups of actuators for targeted adjustment according to body needs.
+>
+> <div style="text-align:center;">
+>     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
+>         <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Medical bed2.1.png" style="width:100%; height:auto;">
+>         <figcaption>Base and bed frame model</figcaption>
+>     </figure>
+>     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
+>         <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Medical bed2.2.png" style="width:50%; height:auto;">
+>         <figcaption>Gear and push rod assembly</figcaption>
+>     </figure>
+>     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
+>         <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Medical bed2.3.png" style="width:100%; height:auto;">
+>         <figcaption>Bed frame state diagram</figcaption>
+>     </figure>
 > </div>
 
 ### Jun 2018 – May 2019  "Intelligent Robots——Combat Robot "<br>
