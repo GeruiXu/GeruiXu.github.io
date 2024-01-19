@@ -20,7 +20,12 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ### Stage1  Real vehicle Experiment I
 
->  
+>  <figure style="text-align:center;">
+>   <div style="display: inline-block; text-align: center;">
+>   <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/E1.0.jpg" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
+>     <figcaption>Procedure of the experimental design</figcaption>
+>   </div>
+> </figure>
 >
 > 
 
