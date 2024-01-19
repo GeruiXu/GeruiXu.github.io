@@ -10,7 +10,7 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ## Journal Paper
 
-- Zhenhua Yu, <font color='red'>**Gerui Xu**</font>, Kang Jiang, Zhongxiang Feng, Shan Xu. (2023). Constructing the behavioral sequence of the takeover process—TOR, behavior characteristics and phases division: A real vehicle experiment. Accident Analysis & Prevention, 186, 107040. 
+- Zhenhua Yu, <font color='red'>Gerui Xu</font>, Kang Jiang, Zhongxiang Feng, Shan Xu. (2023). Constructing the behavioral sequence of the takeover process—TOR, behavior characteristics and phases division: A real vehicle experiment. Accident Analysis & Prevention, 186, 107040. 
 
   [Access article](https://doi.org/10.1016/j.aap.2023.107040)
   
@@ -28,7 +28,9 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ### May 2018 – Aug 2019  "Ergonomically Designed Multifunctional Intelligent Medical Bed"<br>
 
-> <font color='red'>**Team Leader**</font> ，Supervised by *Dr. Zhenhua Yu*
+> <font color='red'>Team Leader</font> <br>Supervised by *Dr. Zhenhua Yu*
+>
+> 
 >
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
@@ -45,7 +47,7 @@ During my professional experience with enterprise-level automated vehicle projec
 
 > ### Overview <br>
 >
-> <font color='red'>**Program designer**</font> <br>As a member of the intelligent robot project team (only 3 candidates), I was fully involved in the development of a sophisticated combat robot named "Pioneer." As the chief software architect of this project, I spearheaded the entire programming and functional implementation of the robot, with a particular emphasis on the development of its core logic: autonomous patrolling, enemy detection and attack strategies, and evasion and disguise mechanisms. Ultimately, we fabricated two prototypes of "Pioneer" and participated in the finals of the Intelligent Robotics Competition.
+> <font color='red'>Program designer</font> <br>As a member of the intelligent robot project team (only 3 candidates), I was fully involved in the development of a sophisticated combat robot named "Pioneer." As the chief software architect of this project, I spearheaded the entire programming and functional implementation of the robot, with a particular emphasis on the development of its core logic: autonomous patrolling, enemy detection and attack strategies, and evasion and disguise mechanisms. Ultimately, we fabricated two prototypes of "Pioneer" and participated in the finals of the Intelligent Robotics Competition.
 >
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
