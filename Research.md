@@ -20,24 +20,78 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ### Stage1  Real vehicle Experiment I
 
->  <figure style="text-align:center;">
->   <div style="display: inline-block; text-align: center;">
->   <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/E1.0.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
->     <figcaption>Procedure of the experimental design</figcaption>
->   </div>
-> </figure>
+>  ### Overview
 >
-> 
+>  This research investigates the impact of audio types on the behavioral sequence of the takeover process in autonomous driving, using a real vehicle experiment to analyze the dynamic changes of behavioral characteristics during the takeover process.
+>
+>  ### Method
+>
+>  Participants: 20 professional drivers, ranging in age from 27 to 53  (MD = 40.9, SD = 7.75). All participants had been driving for 5 years or more and  had driven more than 90,000 km per year over a five-year period. 
+>
+>  Apparatus: The vehicle used in this experiment is Cadillac Super Cruise-CT6.
+>
+>
+>  <figure style="text-align:center;">
+>  <div style="display: inline-block; text-align: center;">
+>  <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/E1.0.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
+>   <figcaption>Procedure of the experimental design</figcaption>
+>  </div>
+>  </figure>
+>
+>  
+>
 
 ### Level-4 Automated Vehicles Urban Road Tests
 
-> 
+> ### Urban Road Tests in Different Cities (Wuhan & Hefei)
 >
-> 
+> ### Overview
+>
+> The Apollo Moon (Polar Fox) autonomous vehicle, equipped with a safety operator in the front passenger seat, is responsible for ensuring the safety of the journey along the test route.
+>
+> <div style="text-align:center;">
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/CT1.png" style="width:100%; height:auto;">
+> <figcaption>Wuhan tests</figcaption>
+> </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/CT1.png" style="width:100%; height:auto;">
+> <figcaption>Hefei tests</figcaption>
+> </figure>
+> </div>
+>
+> ### Analysis of  emergency situations
+>
+> #### 1. Factors Contributing to Traffic Congestion
+>
+> ##### Inability to Change Lanes
+>
+> Comprehensive monitoring has revealed no significant operational anomalies in autonomous vehicles. However, under the conditions of high traffic flow at intersections, these vehicles failed to execute a planned right lane change, thereby entering a congested area along the straight lane and missing the opportunity to switch lanes.
+>
+> ##### Excessive Caution in Evasion 
+>
+> The autonomous driving system adopts a conservative strategy for yielding to all incoming vehicles and pedestrians. In practical scenarios, this policy has led to missed lane-changing opportunities due to prioritizing right-of-way, followed by a halt after slowing down to avoid vehicles from behind. The system replans the route when the original lane change is deemed unfeasible.<br>Analysis indicates that the vehicle attempted multiple times to follow the predetermined route but failed due to the inherent avoidance logic programmed into it. Impatient reactions and aggressive lane-changing behavior of drivers from behind exacerbated the congestion.
+>
+> In summary, this incident highlights the strategic limitations of the autonomous driving system in specific, unforeseen circumstances.<br>Factors Contributing to Traffic Congestion
+>
+> #### 2. Hazardous Incident: Running a Red Light
+> ##### Failure to Synchronize with Traffic Signals
+> Initially, from a global monitoring perspective, it was evident that the autonomous vehicle failed to receive information from the traffic lights upon approaching the intersection. This deviates from standard operations, as vehicles in previous monitoring footage were able to receive and display traffic light signals in advance.
+>
+> Subsequently, even as the vehicle approached the vicinity of the pedestrian crossing, the system could only display information about surrounding vehicles and road conditions, failing to recognize the red light signal. Despite the radar's recognition range far exceeding the display range of the human-machine interface, the vehicle appeared to have suddenly lost its perceptual capabilities regarding road infrastructure in this instance.
+>
+> ##### Navigating an Unfamiliar Route
+> This route was recently updated, and the vehicle had never traversed it before, resulting in an absence of corresponding information in the database. Had it not been for the previous traffic congestion, the vehicle was originally planned to make a right turn onto Hanyang Avenue. However, due to the congestion, the system replanned a route involving a left turn and a U-turn, leading the vehicle to enter this unfamiliar route for the first time.
+>
+> Confronted with this newly updated and database-absent route, the vehicle had to rely on the information it could perceive for decision-making. In this unknown scenario, due to the inability to connect with road infrastructure, the vehicle misjudged the absence of traffic lights at the intersection and continued its course.
+>
+> Ultimately, the safety officer took emergency control and averted a major accident by forcibly braking the vehicle.
 
 ### Stage2  Real vehicle Experiment II
 
-> 
+> ### Overview
+>
+> This research investigates the impact of audio types on the behavioral sequence of the takeover process in autonomous driving, using a real vehicle experiment to analyze the dynamic changes of behavioral characteristics during the takeover process.
 
 ------
 
