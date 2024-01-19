@@ -10,10 +10,8 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ## Journal Paper
 
-- Zhenhua Yu, <font color='red'>Gerui Xu</font>, Kang Jiang, Zhongxiang Feng, Shan Xu. (2023). Constructing the behavioral sequence of the takeover process—TOR, behavior characteristics and phases division: A real vehicle experiment. Accident Analysis & Prevention, 186, 107040. 
+- Zhenhua Yu, <font color='red'>Gerui Xu</font>, Kang Jiang, Zhongxiang Feng, Shan Xu. (2023). Constructing the behavioral sequence of the takeover process—TOR, behavior characteristics and phases division: A real vehicle experiment. Accident Analysis & Prevention, 186, 107040. [Access article](https://doi.org/10.1016/j.aap.2023.107040)
 
-  [Access article](https://doi.org/10.1016/j.aap.2023.107040)
-  
   <br>
 
 ## Master Research Intro
