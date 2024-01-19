@@ -20,7 +20,7 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ## Graduate Projects
 
-
+Stage 1.
 
 ------
 
@@ -34,11 +34,11 @@ During my professional experience with enterprise-level automated vehicle projec
 >
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
->   <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Medical bed3.png" style="width:100%; height:auto;">
+>   <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Medical bed1.png" style="width:100%; height:auto;">
 >   <figcaption>Conceptual Diagram</figcaption>
 > </figure>
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
->   <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate//Medical bed4.png" style="width:100%; height:auto;">
+>   <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate//Medical bed2.png" style="width:100%; height:auto;">
 >   <figcaption>Conceptual Diagram</figcaption>
 > </figure>
 > </div>
