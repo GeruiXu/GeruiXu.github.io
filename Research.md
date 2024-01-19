@@ -30,16 +30,20 @@ Stage 1.
 
 > <font color='red'>Team Leader</font> <br>Supervised by *Dr. Zhenhua Yu*
 >
-> 
+> ### Overview<br>
+>
+> This project innovatively develops an **advanced medical care bed** by integrating **human factor engineering**, **big data analytics**, and **artificial intelligence** into existing medical and nursing bed designs.
+>
+> It combines **mechanical structure** with **electronic control** based on the **human-machine integrated model** to achieve **flexible and intelligent posture adjustment** using the human body posture parameters from the model. This allows the medical bed to provide functions like **massage**, **lifting**, and **vital signs monitoring**.
 >
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
->   <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Medical bed1.png" style="width:100%; height:auto;">
->   <figcaption>Conceptual Diagram</figcaption>
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate/Medical bed1.1.png" style="width:100%; height:auto;">
+> <figcaption>Conceptual Diagram</figcaption>
 > </figure>
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
->   <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate//Medical bed2.png" style="width:100%; height:auto;">
->   <figcaption>Conceptual Diagram</figcaption>
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Undergraduate//Medical bed2.png" style="width:100%; height:auto;">
+> <figcaption>Conceptual Diagram</figcaption>
 > </figure>
 > </div>
 
