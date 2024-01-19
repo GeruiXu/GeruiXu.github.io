@@ -24,12 +24,6 @@ During my professional experience with enterprise-level automated vehicle projec
 >
 >  This research investigates the impact of audio types on the behavioral sequence of the takeover process in autonomous driving, using a real vehicle experiment to analyze the dynamic changes of behavioral characteristics during the takeover process.
 >
->  ### Method
->
->  Participants: 20 professional drivers. 
->
->  Apparatus: The vehicle used in this experiment is Cadillac Super Cruise-CT6.
->
 >
 >  <figure style="text-align:center;">
 >  <div style="display: inline-block; text-align: center;">
