@@ -22,25 +22,33 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ### Jun 2022 – Present<br>
 
-Project: **Dynamic Transfer Patterns of Takeover Behavior in Autonomous Driving and Methods for Enhancing Takeover Performance** <br>National Natural Science Foundation of China (Grant Nos. 52172344)<br>Supervised by **Prof. Kang Jiang**
+**"Dynamic Transfer Patterns of Takeover Behavior in Autonomous Driving and Methods for Enhancing Takeover Performance"**<br>National Natural Science Foundation of China (Grant Nos. 52172344)
 
-### Sep 2021 – Dec 2022<br>
-
-Project: **Mechanism of Visual Focus Transfer and Method of Human-Computer Interaction of Wake-up Attention As Take-over in Highly Automated Driving** <br>National Natural Science Foundation Youth Fund (Grant Nos. 51905142) <br>Supervised by **Dr. Zhenhua Yu**
+Supervised by **Prof. Kang Jiang**
 
 
 
-**Aug 2022 – Present**<br>
+### Sep 2021 – Dec 2022 
 
-Project: **Spatial Object Recognition and Tracking Localization Based on Augmented Reality** (2022JSKF1064)<br>Supervised by **Prof. Kang Jiang**
+**"Mechanism of Visual Focus Transfer and Method of Human-Computer Interaction of Wake-up Attention As Take-over in Highly Automated Driving"** <br>National Natural Science Foundation Youth Fund (Grant Nos. 51905142)
 
-- **Sensor Technology Integration and Data Fusion:** Integrated multi-sensors with IMU inertial navigation systems
+Supervised by **Dr. Zhenhua Yu**
 
-and developed a fusion algorithm, significantly improving system positioning accuracy in dynamic environments
+> 
 
-- **Data Analysis and Visualization:** Responsible for processing fused data, extracting key features for statistical
 
-analysis, and developing a data visualization interface.
+
+### Aug 2022 – Present 
+
+**"Spatial Object Recognition and Tracking Localization Based on Augmented Reality"** <br>(2022JSKF1064)<br>Supervised by **Prof. Kang Jiang**
+
+> - **Sensor Technology Integration and Data Fusion:** Integrated multi-sensors with IMU inertial navigation systems
+>
+> and developed a fusion algorithm, significantly improving system positioning accuracy in dynamic environments
+>
+> - **Data Analysis and Visualization:** Responsible for processing fused data, extracting key features for statistical
+>
+> analysis, and developing a data visualization interface.
 
 ------
 
