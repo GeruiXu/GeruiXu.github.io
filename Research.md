@@ -26,7 +26,7 @@ During my professional experience with enterprise-level automated vehicle projec
 >
 >  ### Method
 >
->  Participants: 20 professional drivers, ranging in age from 27 to 53  (MD = 40.9, SD = 7.75). All participants had been driving for 5 years or more and  had driven more than 90,000 km per year over a five-year period. 
+>  Participants: 20 professional drivers. 
 >
 >  Apparatus: The vehicle used in this experiment is Cadillac Super Cruise-CT6.
 >
@@ -51,7 +51,7 @@ During my professional experience with enterprise-level automated vehicle projec
 >
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-> <img src="https://GeruiXu.github.io/mypaper/Projects/CT1.png" style="width:100%; height:auto;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test1.png" style="width:100%; height:auto;">
 > <figcaption>Wuhan tests</figcaption>
 > </figure>
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
