@@ -20,6 +20,19 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ### Stage1  Real vehicle Experiment I
 
+> ### Overview
+>
+> The Apollo Moon (Polar Fox) autonomous vehicle, equipped with a safety operator in the front passenger seat, is responsible for ensuring the safety of the journey along the test route.
+>
+> <figure style="text-align:center;">
+> <div style="display: inline-block; text-align: center;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/E1.0.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
+>  <figcaption>Procedure of the experimental design</figcaption>
+> </div>
+> </figure>
+
+### Stage1  Real vehicle Experiment I
+
 >  ### Overview
 >
 >  This research investigates the impact of audio types on the behavioral sequence of the takeover process in autonomous driving, using a real vehicle experiment to analyze the dynamic changes of behavioral characteristics during the takeover process.
