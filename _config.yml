@@ -41,8 +41,7 @@ links:
     url: /Life trace/
   - title: Knowledge Base
     url: /Knowledge Base/
-  - title: Blogs
-    url: /blogs/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
