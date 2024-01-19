@@ -8,16 +8,8 @@ title: Knowledge base
 
 Particularly in today's age, our comprehension of the world is derived from the internet, from the language pervading the internet, illuminating the substantial power of language embedded within. This instigates individuals to ponder, whether it is reality that sculpts language, or language that sculpts reality.
 
-# Science
 
 
 
-# English evolve
 
-## Writing
-
-- [Britain's shif to factory system](https://geruixu.github.io/knowledgebase/English evolve/writing/in1)<br>
-
-## Reading 
-
-- [Ancient Athens](https://geruixu.github.io/knowledgebase/Ancient Athens)<br>
+[Ancient Athens](https://geruixu.github.io/knowledgebase/Ancient Athens)<br>

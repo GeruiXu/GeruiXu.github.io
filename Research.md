@@ -31,7 +31,13 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ### Level-4 Automated Vehicles Urban Road Tests
 
-> `
+> 
+>
+> 
+
+### Stage2  Real vehicle Experiment II
+
+> 
 
 ------
 
@@ -50,8 +56,17 @@ During my professional experience with enterprise-level automated vehicle projec
 **National Natural Science Foundation Youth Fund** (Grant Nos. 51905142) ————Supervised by ***Dr. Zhenhua Yu***
 
 > - **Takeover Behavior Sequence:** Developed a four-stage behavioral model for autonomous driving takeover, integrating visual and operational data based on behavioral spectrum principles.
->- **Behavioral Process Analysis:** Utilized time series and MANOVA for analyzing the dynamic process in autonomous driving takeover.
+>
+> - **Behavioral Process Analysis:** Utilized time series and MANOVA for analyzing the dynamic process in autonomous driving takeover.
+>
 > - **Audio Feedback Effect Analysis:** Investigated the impact of various audio feedback types on driver performance, offering dynamic, interaction-based safety solutions for autonomous systems.
+>
+>   <figure style="text-align:center;">
+>   <div style="display: inline-block; text-align: center;">
+>   <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/Meinexp.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
+>    <figcaption>In debugging equipment, the person in red attire is me</figcaption>
+>   </div>
+>   </figure>
 
 ### Aug 2022 – Present  **"Spatial Object Recognition and Tracking Localization Based on Augmented Reality"** 
 
