@@ -16,32 +16,41 @@ During my professional experience with enterprise-level automated vehicle projec
   
   <br>
 
+## Master Research Intro
+
+### Experiment I  
+
 ---
 
 ## Graduate Projects
 
-### Jun 2022 – Present<br>
-
-**"Dynamic Transfer Patterns of Takeover Behavior in Autonomous Driving and Methods for Enhancing Takeover Performance"**
+### Jun 2022 – Present **"Dynamic Transfer Patterns of Takeover Behavior in Autonomous Driving and Methods for Enhancing Takeover Performance"**
 
 **National Natural Science Foundation of China** (Grant Nos. 52172344)————Supervised by ***Prof. Kang Jiang***
 
+> ### My Contributions
+>
+> - **Development of a Takeover Assistance Model:** Conducted takeover experiments with professional drivers in real road scenarios. Applied time series deep learning for modeling takeover decisions and tendencies.
+> - **Development of a Driver Assistance System:** Established a corrective evaluation system for takeover behaviors and developed a multimodal human-machine interaction form based on the takeover assistance model.
+> - **Model Application and Validation:** Developed a real-time interaction platform in experimental vehicles, verifying the model’s effectiveness in optimizing takeover behavior in real-road conditions.
 
-
-Sep 2021 – Dec 2022 **"Mechanism of Visual Focus Transfer and Method of Human-Computer Interaction of Wake-up Attention As Take-over in Highly Automated Driving"** 
+### Sep 2021 – Dec 2022 **"Mechanism of Visual Focus Transfer and Method of Human-Computer Interaction of Wake-up Attention As Take-over in Highly Automated Driving"** 
 
 **National Natural Science Foundation Youth Fund** (Grant Nos. 51905142) ————Supervised by ***Dr. Zhenhua Yu***
 
-> 
+> ### My Contributions
+>
+> - **Takeover Behavior Sequence:** Developed a four-stage behavioral model for autonomous driving takeover, integrating visual and operational data based on behavioral spectrum principles.
+> - **Behavioral Process Analysis:** Utilized time series and MANOVA for analyzing the dynamic process in autonomous driving takeover.
+> - **Audio Feedback Effect Analysis:** Investigated the impact of various audio feedback types on driver performance, offering dynamic, interaction-based safety solutions for autonomous systems.
 
-Aug 2022 – Present  **"Spatial Object Recognition and Tracking Localization Based on Augmented Reality"** 
+### Aug 2022 – Present  **"Spatial Object Recognition and Tracking Localization Based on Augmented Reality"** 
 
 Corporation Foundation (2022JSKF1064) ————Supervised by ***Prof. Kang Jiang***
 
 > ### My Contributions
 >
 > - **Sensor Technology Integration and Data Fusion:** Integrated multi-sensors with IMU inertial navigation systems and developed a fusion algorithm, significantly improving system positioning accuracy in dynamic environments<br>
->
 > - **Data Analysis and Visualization:** Responsible for processing fused data, extracting key features for statistical analysis, and developing a data visualization interface.<br>
 
 ------
