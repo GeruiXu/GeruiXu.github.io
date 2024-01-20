@@ -84,11 +84,12 @@ During my professional experience with enterprise-level automated vehicle projec
 >
 > ### Experiment Design
 >
-> 1.**Data collection consists of two main components:**
+> **1.Data collection consists of two main components:**
 >
-> The first part involves subjects engaging in manual driving operations for an extended period, which includes normal driving behavior and behavior to avoid objects while driving normally. 
+> - The first part involves subjects engaging in manual driving operations for an extended period, which includes normal driving behavior and behavior to avoid objects while driving normally. 
 >
-> The second part involves subjects being in a distracted state and engaging in avoidance behavior during unexpected situations while driving manually.
+> - The second part involves subjects being in a distracted state and engaging in avoidance behavior during unexpected situations while driving manually.
+> - **Data on effective takeovers collected over a long period by 40 professional drivers is used for modeling.**
 >
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
@@ -100,10 +101,33 @@ During my professional experience with enterprise-level automated vehicle projec
 > <figcaption>Highway environment (Side Cameras) </figcaption>
 > </figure>
 > </div>
+> **2.Constructing the takeover assistance model**:
 >
-> 2.
+> <figure style="text-align:center;">
+> <div style="display: inline-block; text-align: center;">
+> <img src="https://GeruiXu.github.io/mypaper/modeling/model1.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
+>  <figcaption>Single optimization</figcaption>
+> </div>
+> </figure>
 >
-> 
+> This section will combine the reliance on behavioral sequences and focus on the interaction of decision-making behaviors after model application takeover, in order to verify the effectiveness of behavioral optimization post-takeover.
+>
+> <div style="text-align:center;">
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/exp7.png" style="width:100%; height:auto;">
+> <figcaption>Autonomous driving (Frount Cameras)</figcaption>
+> </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/modeling/model2.png" style="width:100%; height:auto;">
+> <figcaption>Behavioral modification interaction</figcaption>
+> </figure>
+> </div>
+>
+> ### Publicly available results
+>
+> - In the post-takeover behavioral optimization tests with subjects, 80% positive feedback was collected.
+
+
 
 ### Stage3 Real Vehicle Experiment III——Takeover Model Practical Validation
 
@@ -128,6 +152,8 @@ During my professional experience with enterprise-level automated vehicle projec
 ### Level-4 Automated Vehicles Urban Road Tests
 
 > ### Urban Road Tests in Different Cities (Wuhan & Hefei)
+>
+> [<font color='red'>**One road testing record in Wuhan (Modevol format)**</font>](https://www.modevol.com/episode/clfgnhndb7fv901lr9pob7fk9) or [***Bilibil***](https://www.bilibili.com/video/BV13c41177E9/)
 >
 > ### Overview
 >
@@ -185,13 +211,14 @@ During my professional experience with enterprise-level automated vehicle projec
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
 > <img src="https://GeruiXu.github.io/mypaper/Projects/L4test5.png" style="width:100%; height:auto;">
-> <figcaption>Running a Red Light</figcaption>
+> <figcaption>Hazardous Incident</figcaption>
 > </figure>
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
 > <img src="https://GeruiXu.github.io/mypaper/Projects/L4test5.2.png" style="width:100%; height:auto;">
-> <figcaption>Running a Red Light</figcaption>
+> <figcaption>Red Light</figcaption>
 > </figure>
 > </div>
+> 
 >
 > ##### Failure to Synchronize with Traffic Signals
 > Initially, from a global monitoring perspective, it was evident that the autonomous vehicle failed to receive information from the traffic lights upon approaching the intersection. This deviates from standard operations, as vehicles in previous monitoring footage were able to receive and display traffic light signals in advance.
