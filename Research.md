@@ -10,7 +10,7 @@ During my professional experience with enterprise-level automated vehicle projec
 
 ## Journal Paper
 
-- Zhenhua Yu, <font color='red'>Gerui Xu</font>, Kang Jiang, Zhongxiang Feng, Shan Xu. (2023). Constructing the behavioral sequence of the takeover process—TOR, behavior characteristics and phases division: A real vehicle experiment. Accident Analysis & Prevention, 186, 107040. [Access article](https://doi.org/10.1016/j.aap.2023.107040)
+- Zhenhua Yu, <font color='red'>Gerui Xu</font>, Kang Jiang, Zhongxiang Feng, Shan Xu. (2023). Constructing the behavioral sequence of the takeover process—TOR, behavior characteristics and phases division: A real vehicle experiment. Accident Analysis & Prevention, 186, 107040. [<font color='red'>Access article</font>](https://doi.org/10.1016/j.aap.2023.107040)
 
   <figure style="text-align:center;">
   <div style="display: inline-block; text-align: center;">
@@ -18,7 +18,6 @@ During my professional experience with enterprise-level automated vehicle projec
   <figcaption>Behavioral sequence</figcaption>
   </div>
   </figure>
-  
   <br>
 
 ---
@@ -54,7 +53,7 @@ During my professional experience with enterprise-level automated vehicle projec
 >    <figure style="text-align:center;">
 >    <div style="display: inline-block; text-align: center;">
 >    <img src="https://GeruiXu.github.io/mypaper/Projects/paper1.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
->    <figcaption>Procedure of the experimental design</figcaption>
+>    <figcaption>Time distribution of key features</figcaption>
 >    </div>
 >    </figure>
 >
@@ -63,31 +62,67 @@ During my professional experience with enterprise-level automated vehicle projec
 >    <div style="text-align:center;">
 >    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
 >    <img src="https://GeruiXu.github.io/mypaper/Projects/paper2.png" style="width:100%; height:auto;">
->    <figcaption>Time distribution of key features</figcaption>
+>    <figcaption>The operations in the whole takeover process</figcaption>
 >    </figure>
 >    <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
 >    <img src="https://GeruiXu.github.io/mypaper/Projects/paper3.png" style="width:100%; height:auto;">
->    <figcaption>The operations in the whole takeover process</figcaption>
+>    <figcaption>Temporal distribution and transfer of visual attention.</figcaption>
 >    </figure>
 >    </div>
 >
->    
->
-> 3. **Time Series Analysis of Takeover Operations**: Through time series analysis of operational behaviors during the takeover process, the study reveals behavior patterns and operational characteristics at different stages. This helps in understanding how to design more effective audio cues in various stages to enhance the driver's takeover performance.
+>    3. **Time Series Analysis of Takeover Operations**: Through time series analysis of operational behaviors during the takeover process, the study reveals behavior patterns and operational characteristics at different stages. This helps in understanding how to design more effective audio cues in various stages to enhance the driver's takeover performance.
 
 ###  Stage2 Real Vehicle Experiment II——Establishment of real-time driving incentives for autonomous driving
 
-> ### Overview
+> ### Purpose
 >
-> The Apollo Moon (Polar Fox) autonomous vehicle, equipped with a safety operator in the front passenger seat, is responsible for ensuring the safety of the journey along the test route.
+> In order to construct a driver takeover behavior model (such as the discrimination and prediction of professional driving behavior), we collect data on the long-term manual driving behavior and takeover behavior of drivers with different characteristics as our dataset.
+>
+> - **Takeover behavior prediction**: Based on behavioral sequence to establish a behavior prediction mechanism.
+> - **Takeover correction strategies:** Design takeover behavior modification evaluation system.
+> - **Takeover Assistance Effectiveness Validation**: Validating the effectiveness of post-takeover decision assistance based on behavioral sequences.
+>
+> ### Experiment Design
+>
+> 1.**Data collection consists of two main components:**
+>
+> The first part involves subjects engaging in manual driving operations for an extended period, which includes normal driving behavior and behavior to avoid objects while driving normally. 
+>
+> The second part involves subjects being in a distracted state and engaging in avoidance behavior during unexpected situations while driving manually.
+>
+> <div style="text-align:center;">
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/exp5.png" style="width:100%; height:auto;">
+> <figcaption>Different takeover scenarios (Front Cameras)</figcaption>
+> </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/exp6.png" style="width:100%; height:auto;">
+> <figcaption>Highway environment (Side Cameras) </figcaption>
+> </figure>
+> </div>
+>
+> 2.
 >
 > 
-> Results:
-> 
->  
 
 ### Stage3 Real Vehicle Experiment III——Takeover Model Practical Validation
 
+> ### Purpose
+>
+> - Design takeover modification human-machine interaction form.
+> - Real Validation VS. Virtual Simultaneous —— Model Experiments
+>
+> <div style="text-align:center;">
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/exp3.png" style="width:100%; height:auto;">
+> <figcaption>L3 automated vehicle practical validation</figcaption>
+> </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/Graduate/exp4.png" style="width:100%; height:auto;">
+> <figcaption>Virtual simultaneous</figcaption>
+> </figure>
+> </div>
+>
 > <font color='red'>[Coming soon ......]</font>
 
 ### Level-4 Automated Vehicles Urban Road Tests
@@ -99,18 +134,25 @@ During my professional experience with enterprise-level automated vehicle projec
 > The Apollo Moon (Polar Fox) autonomous vehicle, equipped with a safety operator in the front passenger seat, is responsible for ensuring the safety of the journey along the test route.
 >
 > <div style="text-align:center;">
->     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
->         <img src="https://GeruiXu.github.io/mypaper/Projects/L4test1.png" style="width:100%; height:auto;">
->         <figcaption>Apollo Moon</figcaption>
->     </figure>
->     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
->         <img src="https://GeruiXu.github.io/mypaper/Projects/L4test3.png" style="width:100%; height:auto;">
->         <figcaption>Wuhan tests</figcaption>
->     </figure>
->     <figure style="display:inline-block; margin: 0 10px; max-width:30%;">
->         <img src="https://GeruiXu.github.io/mypaper/Projects/CT1.png" style="width:100%; height:auto;">
->         <figcaption>Hefei tests</figcaption>
->     </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test1.png" style="width:100%; height:auto;">
+> <figcaption>Apollo Moon</figcaption>
+> </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test3.1.png" style="width:100%; height:auto;">
+> <figcaption>Global monitoring perspective</figcaption>
+> </figure>
+> </div>
+>
+> <div style="text-align:center;">
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/L4test3.png" style="width:100%; height:auto;">
+> <figcaption>Wuhan road tests</figcaption>
+> </figure>
+> <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
+> <img src="https://GeruiXu.github.io/mypaper/Projects/CT1.png" style="width:100%; height:auto;">
+> <figcaption>Hefei road tests</figcaption>
+> </figure>
 > </div>
 >
 > ### Analysis of  emergency situations
@@ -120,11 +162,11 @@ During my professional experience with enterprise-level automated vehicle projec
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
 > <img src="https://GeruiXu.github.io/mypaper/Projects/L4test4.png" style="width:100%; height:auto;">
-> <figcaption>Time distribution of key features</figcaption>
+> <figcaption>Traffic Congestion</figcaption>
 > </figure>
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
 > <img src="https://GeruiXu.github.io/mypaper/Projects/L4test4.1.png" style="width:100%; height:auto;">
-> <figcaption>The operations in the whole takeover process</figcaption>
+> <figcaption>Traffic Congestion</figcaption>
 > </figure>
 > </div>
 >
@@ -143,11 +185,11 @@ During my professional experience with enterprise-level automated vehicle projec
 > <div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
 > <img src="https://GeruiXu.github.io/mypaper/Projects/L4test5.png" style="width:100%; height:auto;">
-> <figcaption>Time distribution of key features</figcaption>
+> <figcaption>Running a Red Light</figcaption>
 > </figure>
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
 > <img src="https://GeruiXu.github.io/mypaper/Projects/L4test5.2.png" style="width:100%; height:auto;">
-> <figcaption>The operations in the whole takeover process</figcaption>
+> <figcaption>Running a Red Light</figcaption>
 > </figure>
 > </div>
 >
