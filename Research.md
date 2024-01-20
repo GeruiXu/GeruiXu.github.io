@@ -44,24 +44,21 @@ During my professional experience with enterprise-level automated vehicle projec
 > <figcaption>Procedure of the experimental design</figcaption>
 > </div>
 > </figure>
-> 
->
 > **Results**:
 >
-> 1. **Behavioral Characteristics and Phase Division**: The study demonstrates that the behavioral characteristics of drivers during the takeover process in autonomous vehicles can be used to divide different behavioral stages, revealing the dynamic changes in attention allocation, visual transition, and operational responses during takeover operations.
+> 1.**Behavioral Characteristics and Phase Division**: The study demonstrates that the behavioral characteristics of drivers during the takeover process in autonomous vehicles can be used to divide different behavioral stages, revealing the dynamic changes in attention allocation, visual transition, and operational responses during takeover operations.
 >
 > <figure style="text-align:center;">
-> <div style="display: inline-block; text-align: center;">
+><div style="display: inline-block; text-align: center;">
 > <img src="https://GeruiXu.github.io/mypaper/Projects/paper1.png" style="max-width: 100%; max-height: 600px;" alt="Procedure of the experimental design">
 > <figcaption>Time distribution of key features</figcaption>
 > </div>
 > </figure>
->
-> 2. **Impact of Audio Cue Types**: Different types of audio cues, such as actual sounds, alarm tones, and electronic voices, significantly impact the timing and performance of the driver's takeover operations. Some types of cues can improve response speed and operational efficiency, while others may lead to reduced takeover efficiency.
->
-> <div style="text-align:center;">
+> 2.**Impact of Audio Cue Types**: Different types of audio cues, such as actual sounds, alarm tones, and electronic voices, significantly impact the timing and performance of the driver's takeover operations. Some types of cues can improve response speed and operational efficiency, while others may lead to reduced takeover efficiency.
+> 
+><div style="text-align:center;">
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
-> <img src="https://GeruiXu.github.io/mypaper/Projects/paper2.png" style="width:100%; height:auto;">
+><img src="https://GeruiXu.github.io/mypaper/Projects/paper2.png" style="width:100%; height:auto;">
 > <figcaption>The operations in the whole takeover process</figcaption>
 > </figure>
 > <figure style="display:inline-block; margin: 0 10px; max-width:45%;">
@@ -69,7 +66,7 @@ During my professional experience with enterprise-level automated vehicle projec
 > <figcaption>Temporal distribution and transfer of visual attention.</figcaption>
 > </figure>
 > </div>
-> 3. **Time Series Analysis of Takeover Operations**: Through time series analysis of operational behaviors during the takeover process, the study reveals behavior patterns and operational characteristics at different stages. This helps in understanding how to design more effective audio cues in various stages to enhance the driver's takeover performance.
+> 3.**Time Series Analysis of Takeover Operations**: Through time series analysis of operational behaviors during the takeover process, the study reveals behavior patterns and operational characteristics at different stages. This helps in understanding how to design more effective audio cues in various stages to enhance the driver's takeover performance.
 
 ###  Stage2 Real Vehicle Experiment II——Establishment of real-time driving incentives for autonomous driving
 
