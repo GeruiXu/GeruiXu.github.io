@@ -14,27 +14,23 @@ Particularly in today's age, our comprehension of the world is derived from the 
 
 ## 2023
 
-[Ancient Athens](https://geruixu.github.io/knowledgebase/Ancient Athens)<br>
+- [Ancient Athens](https://geruixu.github.io/knowledgebase/Ancient Athens)<br>
+- [Habitat Selection](https://geruixu.github.io/knowledgebase/Ancient Athe)<br>
 
-[Habitat Selection](https://geruixu.github.io/knowledgebase/Ancient Athe)<br>
+- [laptop orchestra](https://geruixu.github.io/knowledgebase/laptop orchestra)<br>
 
-[laptop orchestra](https://geruixu.github.io/knowledgebase/laptop orchestra)<br>
+- [The Evolution of Plant Roots](https://geruixu.github.io/knowledgebase/The Evolution of Plant Roots)<br>
 
-[The Evolution of Plant Roots](https://geruixu.github.io/knowledgebase/The Evolution of Plant Roots)<br>
+- [The Greek Revival](https://geruixu.github.io/knowledgebase/The Greek Revival)<br>
+- [欧洲：从口头传播到文字记载](https://geruixu.github.io/knowledgebase/欧洲：从口头传播到文字记载)<br>
+- [十九世纪美国的钢铁](https://geruixu.github.io/knowledgebase/十九世纪美国的钢铁)<br>
 
-[The Greek Revival](https://geruixu.github.io/knowledgebase/The Greek Revival)<br>
+- [Vehicle-Road Collaboration System](https://geruixu.github.io/knowledgebase/Vehicle-Road Collaboration System)<br>
 
-[欧洲：从口头传播到文字记载](https://geruixu.github.io/knowledgebase/欧洲：从口头传播到文字记载)<br>
-
-[十九世纪美国的钢铁](https://geruixu.github.io/knowledgebase/十九世纪美国的钢铁)<br>
-
-[Vehicle-Road Collaboration System](https://geruixu.github.io/knowledgebase/Vehicle-Road Collaboration System)<br>
-
-[Autonomous Vehicle Takeover](https://geruixu.github.io/knowledgebase/Autonomous Vehicle Takeover)<br>
+- [Autonomous Vehicle Takeover](https://geruixu.github.io/knowledgebase/Autonomous Vehicle Takeover)<br>
 
 ## 2022
 
-[Levels of Autonomous Driving](https://geruixu.github.io/knowledgebase/Levels of Autonomous Driving)<br>
-
-[Modevol learning English](https://geruixu.github.io/knowledgebase/English words)<br>
+- [Levels of Autonomous Driving](https://geruixu.github.io/knowledgebase/Levels of Autonomous Driving)<br>
+- [Modevol learning English](https://geruixu.github.io/knowledgebase/English words)<br>
 
